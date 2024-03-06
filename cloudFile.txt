@@ -1,2 +1,4 @@
 this was on GitHub
-I added I more line
+I added 1 more line (I fix the line)
+and added more lines
+like this one
